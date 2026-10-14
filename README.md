@@ -1,6 +1,6 @@
 # Project-ViewPoint-Shaders
 
-Lista de shders que contiene la carpeta:
+Lista de shaders que contiene la carpeta:
 
 - Hysteria
 - Bliss Shaders
@@ -8,3 +8,4 @@ Lista de shders que contiene la carpeta:
 - Photon Shaders
 - Solas Shader 
 
+Guia de instalacion en steam: 
